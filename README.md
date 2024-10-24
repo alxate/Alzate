@@ -1,4 +1,4 @@
 hola soy alzate
-juan pablo
+juan alzate
 Tareas
-conflictiva 2
+linea de conflicto
