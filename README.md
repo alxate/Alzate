@@ -1,3 +1,3 @@
 hola soy alzate
-juan pablo
+juan alzate
 Tareas
